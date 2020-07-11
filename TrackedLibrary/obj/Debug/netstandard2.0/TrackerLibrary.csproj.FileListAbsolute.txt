@@ -1,0 +1,10 @@
+D:\Eugene\c#_Lessons\TournamentApp\TrackedLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csprojAssemblyReference.cache
+D:\Eugene\c#_Lessons\TournamentApp\TrackedLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfoInputs.cache
+D:\Eugene\c#_Lessons\TournamentApp\TrackedLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfo.cs
+D:\Eugene\c#_Lessons\TournamentApp\TrackedLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+D:\Eugene\c#_Lessons\TournamentApp\TrackedLibrary\bin\Debug\netstandard2.0\TrackerLibrary.dll.config
+D:\Eugene\c#_Lessons\TournamentApp\TrackedLibrary\bin\Debug\netstandard2.0\TrackerLibrary.deps.json
+D:\Eugene\c#_Lessons\TournamentApp\TrackedLibrary\bin\Debug\netstandard2.0\TrackerLibrary.dll
+D:\Eugene\c#_Lessons\TournamentApp\TrackedLibrary\bin\Debug\netstandard2.0\TrackerLibrary.pdb
+D:\Eugene\c#_Lessons\TournamentApp\TrackedLibrary\obj\Debug\netstandard2.0\TrackerLibrary.dll
+D:\Eugene\c#_Lessons\TournamentApp\TrackedLibrary\obj\Debug\netstandard2.0\TrackerLibrary.pdb

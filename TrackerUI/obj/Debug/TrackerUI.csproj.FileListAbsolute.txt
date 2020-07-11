@@ -1,0 +1,14 @@
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\bin\Debug\TrackerUI.exe.config
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\bin\Debug\TrackerUI.exe
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\bin\Debug\TrackerUI.pdb
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\obj\Debug\TrackerUI.exe
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\obj\Debug\TrackerUI.pdb
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\obj\Debug\CreateTournamentUI.createTournament.resources
+D:\Eugene\c#_Lessons\TournamentApp\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
